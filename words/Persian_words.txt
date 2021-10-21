@@ -1,0 +1,1001 @@
+Number Persian in English
+1 عنوان as
+2 من I
+3 خود his
+4 که that
+5 او he
+6 بود was
+7 برای for
+8 در on
+9 هستیم are
+10 با with
+11 آنها they
+12 بودن be
+13 در at
+14 یک one
+15 دارند have
+16 این this
+17 از from
+18 توسط by
+19 داغ hot
+20 کلمه word
+21 اما but
+22 چه what
+23 برخی از some
+24 است is
+25 آن it
+26 شما you
+27 و یا or
+28 حال had
+29 تر the
+30 از of
+31 به to
+32 و and
+33 دست a
+34 در in
+35 ما we
+36 می توانید can
+37 از out
+38 دیگر other
+39 بود were
+40 که which
+41 انجام do
+42 شان their
+43 زمان time
+44 اگر if
+45 خواهد شد will
+46 چگونه how
+47 گفت: said
+48 پا an
+49 هر each
+50 بگو tell
+51 میکند does
+52 مجموعه set
+53 سه three
+54 می خواهم want
+55 هوا air
+56 به خوبی well
+57 همچنین also
+58 بازی play
+59 کوچک small
+60 پایان end
+61 قرار دادن put
+62 خانه home
+63 بهعنوان read
+64 دست hand
+65 بندر port
+66 بزرگ large
+67 طلسم spell
+68 اضافه add
+69 حتی even
+70 زمین land
+71 اینجا here
+72 باید must
+73 بزرگ big
+74 بالا high
+75 از جمله such
+76 به دنبال follow
+77 عمل act
+78 به همین دلیل why
+79 بپرسید ask
+80 مردها men
+81 تغییر change
+82 رفت went
+83 نور light
+84 نوع kind
+85 خاموش off
+86 نیاز need
+87 خانه house
+88 تصویر picture
+89 سعی کنید try
+90 ما us
+91 دوباره again
+92 حیوانات animal
+93 نقطه point
+94 مادر mother
+95 جهان world
+96 در نزدیکی near
+97 ساخت build
+98 خود self
+99 زمین earth
+100 پدر father
+101 هر any
+102 جدید new
+103 کار work
+104 بخش part
+105 را take
+106 دریافت get
+107 محل place
+108 ساخته شده made
+109 زنده live
+110 که در آن where
+111 پس از after
+112 به عقب back
+113 کمی little
+114 تنها only
+115 دور round
+116 مرد man
+117 سال year
+118 آمد came
+119 نمایش show
+120 هر every
+121 خوب good
+122 به من me
+123 را give
+124 ما our
+125 در under
+126 نامونام name
+127 بسیار very
+128 از طریق through
+129 فقط just
+130 فرم form
+131 حکم sentence
+132 بزرگ great
+133 فکر کردن think
+134 می گویند say
+135 کمک help
+136 کم low
+137 خط line
+138 متفاوت differ
+139 به نوبه خود turn
+140 علت cause
+141 بسیار much
+142 متوسط mean
+143 قبل before
+144 حرکت move
+145 راست right
+146 پسر boy
+147 قدیمی old
+148 هم too
+149 همان same
+150 او she
+151 همه all
+152 وجود دارد there
+153 وقتی که when
+154 بالا up
+155 استفاده use
+156 خود را your
+157 راه way
+158 در مورد about
+159 بسیاری از many
+160 پس از آن then
+161 آنها را them
+162 نوشتن write
+163 را would
+164 مانند like
+165 تا so
+166 اینها these
+167 او her
+168 طولانی long
+169 را make
+170 چیزی که thing
+171 ببینید see
+172 او him
+173 دو two
+174 دارد has
+175 نگاه look
+176 تر more
+177 روز day
+178 می تواند could
+179 به go
+180 آمده come
+181 انجام did
+182 تعداد number
+183 صدا sound
+184 هیچ no
+185 بیشترین most
+186 مردم people
+187 من my
+188 روی over
+189 می دانم know
+190 اب water
+191 نسبت به than
+192 تماس call
+193 اولین first
+194 که who
+195 ممکن است may
+196 پایین down
+197 سمت side
+198 بوده been
+199 ساعت now
+200 پیدا کردن find
+201 سر head
+202 ایستادن stand
+203 خود own
+204 صفحه page
+205 باید should
+206 کشور country
+207 یافت found
+208 پاسخ answer
+209 مدرسه school
+210 رشد grow
+211 مطالعه study
+212 هنوز still
+213 یادگیری learn
+214 کارخانه plant
+215 پوشش cover
+216 مواد غذایی food
+217 آفتاب sun
+218 چهار four
+219 بین between
+220 دولت state
+221 نگه داشتن keep
+222 چشم eye
+223 هرگز never
+224 آخرین last
+225 اجازه let
+226 فکر thought
+227 شهرستان city
+228 درخت tree
+229 صلیب cross
+230 مزرعه farm
+231 سخت hard
+232 شروع start
+233 زور might
+234 داستان story
+235 اره saw
+236 بسیار far
+237 دریا sea
+238 قرعه کشی draw
+239 سمت چپ left
+240 اواخر late
+241 اجرا run
+242 نکن don’t
+243 در حالی که while
+244 مطبوعات press
+245 نزدیک close
+246 شب night
+247 واقعی real
+248 زندگی life
+249 کم few
+250 شمال north
+251 کتاب book
+252 حمل carry
+253 در زمان took
+254 علم science
+255 خوردن eat
+256 اتاق room
+257 دوستان friend
+258 آغاز شد began
+259 ایده idea
+260 ماهی fish
+261 کوه mountain
+262 توقف stop
+263 یک بار once
+264 پایه base
+265 گوش hear
+266 اسب horse
+267 برش cut
+268 مطمئن sure
+269 تماشای watch
+270 رنگ color
+271 صورت face
+272 چوب wood
+273 اصلی main
+274 باز open
+275 به نظر می رسد seem
+276 با هم together
+277 بعدی next
+278 سفید white
+279 کودکان children
+280 شروع begin
+281 رو got
+282 راه رفتن walk
+283 مثال example
+284 آسان ease
+285 مقاله paper
+286 گروه group
+287 همیشه always
+288 موسیقی music
+289 آن those
+290 هر دو both
+291 علامت mark
+292 غالبا often
+293 نامه letter
+294 تا زمانی که until
+295 مایل mile
+296 رودخانه river
+297 اتومبیل car
+298 پا feet
+299 مراقبت care
+300 دوم second
+301 کافی enough
+302 ساده plain
+303 دختر girl
+304 معمول usual
+305 جوان young
+306 اماده ready
+307 بالا above
+308 همیشه ever
+309 قرمز red
+310 لیست list
+311 هر چند though
+312 احساس feel
+313 بحث talk
+314 پرنده bird
+315 بزودی soon
+316 بدن body
+317 سگ dog
+318 خانواده family
+319 مستقیم direct
+320 مطرح pose
+321 ترک leave
+322 آهنگ song
+323 اندازه گیری measure
+324 درب door
+325 محصول product
+326 سیاه و سفید black
+327 کوتاه short
+328 بر اساس اعداد numeral
+329 کلاس class
+330 باد wind
+331 سوال question
+332 اتفاق می افتد happen
+333 کامل complete
+334 کشتی ship
+335 منطقه area
+336 نیم half
+337 سنگ rock
+338 منظور order
+339 آتش fire
+340 جنوب south
+341 مشکل problem
+342 قطعه piece
+343 گفت told
+344 می دانستم که knew
+345 عبور pass
+346 از سال since
+347 بالا top
+348 تمام whole
+349 پادشاه king
+350 خیابان street
+351 اینچ inch
+352 ضرب multiply
+353 هیچ nothing
+354 البته course
+355 اقامت stay
+356 چرخ wheel
+357 کامل full
+358 نیروی force
+359 آبی blue
+360 شی object
+361 تصمیم گی decide
+362 سطح surface
+363 عمیق deep
+364 ماه moon
+365 جزیره island
+366 پا foot
+367 سیستم system
+368 مشغول busy
+369 آزمون test
+370 رکورد record
+371 قایق boat
+372 مشترک common
+373 طلا gold
+374 ممکن possible
+375 هواپیما plane
+376 جا stead
+377 خشک dry
+378 جای تعجب wonder
+379 خنده laugh
+380 هزار thousand
+381 پیش ago
+382 فرار ran
+383 بررسی check
+384 بازی game
+385 شکل shape
+386 برابر equate
+387 داغ hot
+388 دست miss
+389 آورده brought
+390 حرارت heat
+391 برف snow
+392 لاستیک tire
+393 را bring
+394 بله yes
+395 دور distant
+396 پر fill
+397 شرق east
+398 رنگ paint
+399 زبان language
+400 در میان among
+401 واحد unit
+402 قدرت power
+403 شهر town
+404 خوب fine
+405 معین certain
+406 پرواز fly
+407 سقوط fall
+408 شود lead
+409 فریاد cry
+410 تاریک dark
+411 ماشین machine
+412 یادداشت note
+413 صبر wait
+414 برنامه plan
+415 شکل figure
+416 ستاره star
+417 جعبه box
+418 اسم noun
+419 حوزه field
+420 بقیه rest
+421 درست correct
+422 قادر able
+423 پوند pound
+424 انجام done
+425 زیبایی beauty
+426 درایو drive
+427 ایستاده بود stood
+428 شامل contain
+429 جلو front
+430 آموزش teach
+431 هفته week
+432 نهایی final
+433 به gave
+434 سبز green
+435 آه oh
+436 سریع quick
+437 توسعه develop
+438 اقیانوس ocean
+439 گرم warm
+440 رایگان free
+441 دقیقه minute
+442 قوی strong
+443 ویژه special
+444 ذهن mind
+445 پشت سر behind
+446 روشن clear
+447 دم tail
+448 محصول produce
+449 واقع fact
+450 فضا space
+451 شنیده heard
+452 بهترین best
+453 ساعت hour
+454 بهتر better
+455 درست است true
+456 در during
+457 صد hundred
+458 پنج five
+459 به یاد داش remember
+460 گام step
+461 اوایل early
+462 نگه داشتن hold
+463 غرب west
+464 زمین ground
+465 علاقه interest
+466 رسیدن به reach
+467 سریع fast
+468 فعل verb
+469 آواز خواندن sing
+470 گوش دادن listen
+471 شش six
+472 جدول table
+473 سفر travel
+474 کمتر less
+475 صبح morning
+476 ده ten
+477 ساده simple
+478 چند several
+479 واکه vowel
+480 به سمت toward
+481 جنگ war
+482 ذخیره کردن lay
+483 در برابر against
+484 الگوی pattern
+485 کند slow
+486 مرکز center
+487 دوست دارم love
+488 فرد person
+489 پول money
+490 خدمت serve
+491 به نظر می رسد appear
+492 جاده road
+493 نقشه map
+494 باران rain
+495 قانون rule
+496 حکومت govern
+497 کشیدن pull
+498 سرد cold
+499 اطلاع notice
+500 صدای voice
+501 انرژی energy
+502 شکار hunt
+503 احتمالی probable
+504 تخت bed
+505 برادر brother
+506 تخم مرغ egg
+507 سوار ride
+508 سلول cell
+509 باور believe
+510 شاید perhaps
+511 انتخاب کنید pick
+512 ناگهانی sudden
+513 شمار count
+514 مربع square
+515 دلیل reason
+516 طول length
+517 نمایندگی represent
+518 هنر art
+519 موضوع subject
+520 منطقه region
+521 اندازه size
+522 متفاوت ا vary
+523 حل و فصل settle
+524 کنند speak
+525 وزن weight
+526 عمومی general
+527 یخ ice
+528 موضوع matter
+529 دایره circle
+530 جفت pair
+531 عبارتند از include
+532 تقسیم divide
+533 هجا syllable
+534 نمد felt
+535 بزرگ grand
+536 توپ ball
+537 هنوز yet
+538 موج wave
+539 رها کردن drop
+540 قلب heart
+541 ساعت am
+542 حاضر present
+543 سنگین heavy
+544 رقص dance
+545 موتور engine
+546 موقعیت position
+547 دست arm
+548 گسترده wide
+549 بادبان sail
+550 ماده material
+551 بخش fraction
+552 جنگل forest
+553 نشستن sit
+554 مسابقه race
+555 پنجره window
+556 فروشگاه store
+557 تابستان summer
+558 قطار train
+559 خواب sleep
+560 ثابت prove
+561 تنها lone
+562 پا leg
+563 ورزش exercise
+564 دیوار wall
+565 گرفتن catch
+566 کوه mount
+567 آرزو wish
+568 آسمان sky
+569 هیئت مدیره board
+570 لذت joy
+571 زمستان winter
+572 شنبه sat
+573 نوشته شده written
+574 وحشی wild
+575 ابزار instrument
+576 نگه داشته kept
+577 شیشه ای glass
+578 چمن grass
+579 گاو cow
+580 کار job
+581 لبه edge
+582 علامت sign
+583 بازدید visit
+584 گذشته past
+585 نرم soft
+586 سرگرم fun
+587 روشن bright
+588 گاز gas
+589 آب و هوا weather
+590 ماه month
+591 میلیون million
+592 تحمل bear
+593 پایان finish
+594 شاد happy
+595 امیدوارم hope
+596 گل flower
+597 پوشاندن clothe
+598 عجیب و غر strange
+599 رفته gone
+600 تجارت trade
+601 ملودی melody
+602 سفر trip
+603 دفتر office
+604 دریافت receive
+605 ردیف row
+606 دهان mouth
+607 دقیق exact
+608 نماد symbol
+609 مرگ die
+610 کمترین least
+611 مشکل trouble
+612 فریاد shout
+613 جز except
+614 نوشت wrote
+615 دانه seed
+616 تن tone
+617 عضویت join
+618 نشان می دهد suggest
+619 تمیز clean
+620 استراحت break
+621 خانم lady
+622 حیاط yard
+623 افزایش rise
+624 بد bad
+625 ضربه blow
+626 نفت oil
+627 خون blood
+628 دستزدن touch
+629 رشد grew
+630 در صد cent
+631 مخلوط mix
+632 تیم team
+633 سیم wire
+634 هزینه cost
+635 از دست داده lost
+636 قهوه ای brown
+637 لباس wear
+638 باغ garden
+639 برابر equal
+640 ارسال sent
+641 کنید choose
+642 سقوط fell
+643 مناسب fit
+644 جریان flow
+645 عادلانه fair
+646 بانک bank
+647 جمع آوری collect
+648 ذخیره save
+649 کنترل control
+650 اعشاری decimal
+651 گوش ear
+652 دیگر else
+653 کاملا quite
+654 شکست broke
+655 مورد case
+656 متوسط middle
+657 کشتن kill
+658 پسر son
+659 دریاچه lake
+660 لحظه ای moment
+661 مقیاس scale
+662 با صدا loud
+663 بهار spring
+664 مشاهده observe
+665 کودک child
+666 مستقیم straight
+667 همخوان consonant
+668 کشور nation
+669 فرهنگ لغت dictionary
+670 شیر milk
+671 سرعت speed
+672 روش method
+673 عضو organ
+674 پرداخت pay
+675 سن age
+676 بخش section
+677 لباس dress
+678 ابر cloud
+679 تعجب surprise
+680 آرام quiet
+681 سنگ stone
+682 کوچک tiny
+683 صعود climb
+684 سرد cool
+685 طراحی design
+686 ضعیف poor
+687 زیادی lot
+688 تجربه experiment
+689 پایین bottom
+690 کلید key
+691 اهن iron
+692 تک single
+693 چوب stick
+694 تخت flat
+695 بیست twenty
+696 پوست skin
+697 لبخند smile
+698 چین crease
+699 سوراخ hole
+700 پرش به jump
+701 کودک baby
+702 هشت eight
+703 روستای village
+704 ملاقات meet
+705 ریشه root
+706 خرید buy
+707 بالا بردن raise
+708 حل solve
+709 فلز metal
+710 چه whether
+711 فشار push
+712 هفت seven
+713 بند paragraph
+714 سوم third
+715 باید shall
+716 برگزار شد held
+717 مو hair
+718 توصیف describe
+719 آشپز cook
+720 طبقه floor
+721 یا either
+722 نتیجه result
+723 رایت burn
+724 تپه hill
+725 امن safe
+726 گربه cat
+727 قرن century
+728 در نظر consider
+729 نوع type
+730 قانون law
+731 بیت bit
+732 ساحل coast
+733 کپی copy
+734 عبارت phrase
+735 خاموش silent
+736 بلند tall
+737 شن sand
+738 خاک soil
+739 رول roll
+740 درجه حرارت temperature
+741 انگشت finger
+742 صنعت industry
+743 ارزش value
+744 مبارزه fight
+745 دروغ lie
+746 ضرب و شتم beat
+747 تحریک excite
+748 طبیعی natural
+749 نظر view
+750 احساس sense
+751 سرمایه capital
+752 نه won’t
+753 صندلی chair
+754 خطر danger
+755 میوه fruit
+756 غنی rich
+757 ضخامت thick
+758 سرباز soldier
+759 روند process
+760 کار operate
+761 عمل practice
+762 جداگانه separate
+763 دشوار difficult
+764 دکتر doctor
+765 لطفا please
+766 محافظت protect
+767 ظهر noon
+768 محصول crop
+769 مدرن modern
+770 عنصر element
+771 ضربه hit
+772 دانش آموز student
+773 گوشه corner
+774 حزب party
+775 عرضه supply
+776 که whose
+777 قرار locate
+778 حلقه ring
+779 شخصیت character
+780 حشرات insect
+781 گرفتار caught
+782 دوره period
+783 نشان می دهد indicate
+784 رادیو radio
+785 صحبت spoke
+786 اتم atom
+787 انسانی human
+788 تاریخ history
+789 اثر effect
+790 برق electric
+791 انتظار expect
+792 استخوان bone
+793 نرده rail
+794 تصور کنید imagine
+795 ارائه provide
+796 توافق agree
+797 بنابر این thus
+798 ملایم gentle
+799 زن woman
+800 کاپیتان captain
+801 حدس می زنم guess
+802 لازم necessary
+803 تیز sharp
+804 بال wing
+805 ایجاد create
+806 همسایه neighbor
+807 شستشو wash
+808 خفاش bat
+809 نه rather
+810 جمعیت crowd
+811 ذرت corn
+812 مقایسه compare
+813 شعر poem
+814 رشته string
+815 زنگ bell
+816 بستگی دارد depend
+817 گوشت meat
+818 مالیدن rub
+819 لوله tube
+820 معروف famous
+921 دلار dollar
+822 جریان stream
+823 ترس fear
+284 نظر sight
+825 نازک thin
+826 مثلث triangle
+827 سیاره planet
+828 عجله ب hurry
+829 رئیس chief
+830 مستعمره colony
+831 ساعت clock
+832 معدن mine
+833 کراوات tie
+834 وارد شدن enter
+835 اصلی major
+836 تازه fresh
+837 جستجو search
+838 ارسال send
+839 زرد yellow
+840 اسلحه gun
+841 اجازه allow
+842 چاپ print
+843 مرده dead
+844 نقطه spot
+845 بیابان desert
+846 کت و ش suit
+847 جریان current
+848 آسانسور lift
+840 افزایش rose
+850 رسیدن arrive
+851 کارشناس master
+852 آهنگ track
+853 پدر و مادر parent
+854 ساحل shore
+855 بخش division
+856 ورق sheet
+857 ماده substance
+858 به نفع favor
+859 اتصال connect
+860 پست post
+861 خرج کردن spend
+862 وتر chord
+863 چربی fat
+864 خوشحالم glad
+865 اصلی original
+866 سهم share
+867 ایستگاه station
+868 پدر dad
+869 نان bread
+870 شارژ charge
+871 مناسب proper
+872 بار bar
+873 پیشنهاد offer
+874 بخش segment
+875 برده slave
+876 اردک duck
+877 فوری instant
+878 بازار market
+879 درجه degree
+880 جمعیت populate
+881 جوجه chick
+882 عزیز dear
+883 دشمن enemy
+884 پاسخ reply
+885 نوشابه drink
+886 رخ می دهد occur
+887 پشتیبانی support
+888 سخنرانی speech
+889 طبیعت nature
+890 دامنه range
+891 بخار steam
+892 حرکت motion
+893 راه path
+894 مایع liquid
+895 ورود به log
+896 به معنای meant
+897 خارج قسمت quotient
+898 دندانها teeth
+899 پوسته shell
+900 گردن neck
+901 اکسیژن oxygen
+902 قند sugar
+903 مرگ death
+904 خوب pretty
+905 مهارت skill
+906 زنان women
+907 فصل season
+908 راه حل solution
+909 مغناطیس magnet
+910 نقره ای silver
+911 تشکر thank
+912 شاخه branch
+913 مسابقه match
+914 پسوند suffix
+915 ویژه especially
+916 انجیر fig
+917 ترس afraid
+918 بزرگ huge
+919 خواهر sister
+920 فولاد steel
+921 بحث discuss
+922 به جلو forward
+923 مشابه similar
+924 راهنمایی guide
+925 تجربه experience
+926 نمره score
+927 سیب apple
+928 خریداری bought
+929 رهبری led
+930 زمین pitch
+931 کت coat
+932 جرم mass
+933 کارت card
+934 گروه band
+935 طناب rope
+936 لغزش slip
+937 برنده win
+938 رویا dream
+939 شب evening
+940 شرایط condition
+941 خوراک feed
+942 ابزار tool
+943 کل total
+944 اساسی basic
+945 بوی smell
+946 دره valley
+947 و نه nor
+948 دو double
+949 صندلی seat
+950 ادامه continue
+951 بلوک block
+952 نمودار chart
+953 کلاه hat
+954 فروش sell
+955 موفقیت success
+956 شرکت company
+957 تفریق subtract
+958 رویداد event
+959 خاص particular
+960 معامله deal
+961 شنا swim
+962 مدت term
+963 در مقابل opposite
+964 همسر wife
+965 کفش shoe
+966 شانه shoulder
+967 گسترش spread
+968 ترتیب arrange
+969 اردوگاه camp
+970 اختراع invent
+971 پنبه cotton
+972 متولد born
+973 تعیین determine
+974 کوارت quart
+975 نه nine
+976 کامیون truck
+977 سر و صدا noise
+978 سطح level
+979 شانس chance
+980 جمع کردن gather
+981 فروشگاه shop
+982 کشش stretch
+983 پرتاب throw
+984 درخشش shine
+985 خاصیت property
+986 ستون column
+987 مولکول molecule
+988 ب کنید select
+989 اشتباه wrong
+990 خاکستری gray
+991 تکرار repeat
+992 نیاز require
+993 پهن broad
+994 آماده prepare
+995 نمک salt
+996 بینی nose
+997 جمع plural
+998 خشم anger
+999 ادعا claim
+1000 قاره continent
